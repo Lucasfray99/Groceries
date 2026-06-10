@@ -12,6 +12,8 @@ import Playgrounds
     
     func joe() {
         let mama = "gottem"
+        
+        print(mama)
     }
 
     var body: some Scene {
