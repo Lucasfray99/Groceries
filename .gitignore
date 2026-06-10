@@ -1,0 +1,15 @@
+# Xcode user-specific settings
+xcuserdata/
+*.xcuserstate
+
+# Build products and local indexes
+DerivedData/
+build/
+.build/
+
+# Swift Package Manager local state
+Package.resolved
+.swiftpm/
+
+# macOS metadata
+.DS_Store
