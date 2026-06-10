@@ -9,6 +9,10 @@ import Playgrounds
         ICloudSettingsSync.shared.activate()
         PhoneWatchConnectivityController.shared.activate()
     }
+    
+    func joe() {
+        let mama = "gottem"
+    }
 
     var body: some Scene {
         WindowGroup {
